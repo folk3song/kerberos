@@ -6,10 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cf641cc-66d0-4e06-a763-872e27876d25" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/HiveTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0cf641cc-66d0-4e06-a763-872e27876d25" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,14 +50,14 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\ideaCode\KerberosTest2\hdfsConf" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\ideaCode\KerberosTest2\src\main\java" />
       <recent name="D:\ideaCode\KerberosTest2\conf" />
+      <recent name="D:\ideaCode\KerberosTest2\src\main\java" />
       <recent name="D:\ideaCode\KerberosTest2\lib" />
       <recent name="D:\ideaCode\KerberosTest2\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideaCode\KerberosTest2\hdfsConf" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -124,8 +121,16 @@
       <option name="presentableId" value="Default" />
       <updated>1572400589869</updated>
       <workItem from="1572400592737" duration="15197000" />
-      <workItem from="1572592352536" duration="231000" />
+      <workItem from="1572592352536" duration="512000" />
     </task>
+    <task id="LOCAL-00001" summary="新加了hive的认证代码">
+      <created>1572592871453</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572592871454</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,5 +148,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="新加了hive的认证代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="新加了hive的认证代码" />
   </component>
 </project>
