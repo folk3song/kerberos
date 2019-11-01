@@ -6,7 +6,12 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cf641cc-66d0-4e06-a763-872e27876d25" name="Default Changelist" comment="" />
+    <list default="true" id="0cf641cc-66d0-4e06-a763-872e27876d25" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/KafkaProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +48,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/conf" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/myConf" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15429688" />
     <property name="project.structure.side.proportion" value="0.11408016" />
@@ -55,6 +60,9 @@
       <recent name="D:\ideaCode\KerberosTest2\src\main\java" />
       <recent name="D:\ideaCode\KerberosTest2\lib" />
       <recent name="D:\ideaCode\KerberosTest2\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\ideaCode\KerberosTest2\hdfsConf" />
@@ -72,7 +80,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HiveTest">
+  <component name="RunManager" selected="Application.MyProducer">
     <configuration name="HbaseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HbaseTest" />
       <module name="KerberosTest2" />
@@ -94,8 +102,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImpalaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ImpalaTest" />
+    <configuration name="MyConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyConsumer" />
+      <module name="KerberosTest2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyProducer" />
       <module name="KerberosTest2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,10 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyProducer" />
+        <item itemvalue="Application.MyConsumer" />
         <item itemvalue="Application.HiveTest" />
         <item itemvalue="Application.HdfsTest" />
         <item itemvalue="Application.HbaseTest" />
-        <item itemvalue="Application.ImpalaTest" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +137,7 @@
       <option name="presentableId" value="Default" />
       <updated>1572400589869</updated>
       <workItem from="1572400592737" duration="15197000" />
-      <workItem from="1572592352536" duration="512000" />
+      <workItem from="1572592352536" duration="875000" />
     </task>
     <task id="LOCAL-00001" summary="新加了hive的认证代码">
       <created>1572592871453</created>
@@ -130,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572592871454</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="新加了hive的认证代码">
+      <created>1572593031261</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572593031261</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
