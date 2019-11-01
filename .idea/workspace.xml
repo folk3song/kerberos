@@ -7,6 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cf641cc-66d0-4e06-a763-872e27876d25" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/HiveTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +46,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/conf" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15429688" />
     <property name="project.structure.side.proportion" value="0.11408016" />
@@ -74,7 +75,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HdfsTest">
+  <component name="RunManager" selected="Application.HiveTest">
     <configuration name="HbaseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HbaseTest" />
       <module name="KerberosTest2" />
@@ -89,6 +90,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HiveTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HiveTest" />
+      <module name="KerberosTest2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ImpalaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ImpalaTest" />
       <module name="KerberosTest2" />
@@ -98,6 +106,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HiveTest" />
         <item itemvalue="Application.HdfsTest" />
         <item itemvalue="Application.HbaseTest" />
         <item itemvalue="Application.ImpalaTest" />
@@ -114,7 +123,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572400589869</updated>
-      <workItem from="1572400592737" duration="14647000" />
+      <workItem from="1572400592737" duration="15197000" />
+      <workItem from="1572592352536" duration="231000" />
     </task>
     <servers />
   </component>
@@ -126,7 +136,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
